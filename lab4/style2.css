@@ -1,0 +1,29 @@
+.ball {
+            width: 100px;
+            height: 100px;
+            background-color: green;
+            border-radius: 50%;
+            position: relative;
+            animation: hitBall 1s ease-in-out infinite;
+            transform-origin: 50% 50%;
+            animation-duration: 2s;
+        }
+
+        @keyframes hitBall {
+    0% {
+        transform: translate(0, 0);
+    }
+
+    100% {
+        transform: translate(2000px, 1000px);
+    }
+}
+.oval {
+      width: 200px;
+      height: 100px;
+      background: black;
+      border-radius: 100px / 50px;
+    position: absolute;
+            bottom: 10px;
+    right: 10px;
+    }
