@@ -1,1 +1,1 @@
-вот мой сайт который я делалс помощью конструктора Tilda: http://cloudswagpresets.tilda.ws
+ссылка на сайт сделанный с помощью конструктора Tilda: http://cloudswagpresets.tilda.ws
